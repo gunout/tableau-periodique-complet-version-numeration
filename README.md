@@ -1,192 +1,206 @@
-🌌 Tableau Périodique Complet — Version Numérotation
+# 🌌 Tableau Périodique Complet — Version Numérotation
 
-https://img.shields.io/badge/GitHub-gunout%2Ftableau--periodique--version--numeration-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/D%C3%A9ploy%C3%A9-En_ligne-002395?style=for-the-badge&logo=netlify&logoColor=white
+[![GitHub](https://img.shields.io/badge/GitHub-gunout%2Ftableau--periodique--version--numeration-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunout/tableau-periodique-complet-version-numeration)
+[![Déployé](https://img.shields.io/badge/Déployé-En_ligne-002395?style=for-the-badge&logo=netlify&logoColor=white)](https://gunout.github.io/tableau-periodique-complet-version-numeration)
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/License-MIT-002395?style=for-the-badge
-https://img.shields.io/badge/Dependencies-0-ED2939?style=for-the-badge
-https://img.shields.io/badge/Responsive-Yes-1D4ED8?style=for-the-badge
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![License MIT](https://img.shields.io/badge/License-MIT-002395?style=for-the-badge)
+![No Dependencies](https://img.shields.io/badge/Dependencies-0-ED2939?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-1D4ED8?style=for-the-badge)
 
-https://img.shields.io/badge/%C3%89l%C3%A9ments-118-002395?style=flat-square
-https://img.shields.io/badge/%C3%89poques-6-1D4ED8?style=flat-square
-https://img.shields.io/badge/Cat%C3%A9gories-10-3B82F6?style=flat-square
-https://img.shields.io/badge/Spectres_simul%C3%A9s-Oui-ED2939?style=flat-square
-https://img.shields.io/badge/Langue-Fran%C3%A7ais-C8102E?style=flat-square
-https://img.shields.io/badge/Statut-Stable-22c55e?style=flat-square
+![Éléments](https://img.shields.io/badge/Éléments-118-002395?style=flat-square)
+![Époques](https://img.shields.io/badge/Époques-6-1D4ED8?style=flat-square)
+![Catégories](https://img.shields.io/badge/Catégories-10-3B82F6?style=flat-square)
+![Spectres](https://img.shields.io/badge/Spectres_simulés-Oui-ED2939?style=flat-square)
+![Langue](https://img.shields.io/badge/Langue-Français-C8102E?style=flat-square)
+![Statut](https://img.shields.io/badge/Statut-Stable-22c55e?style=flat-square)
 
-https://img.shields.io/badge/Made_with-%E2%9D%A4%EF%B8%8F-ED2939?style=flat-square
-https://img.shields.io/badge/Th%C3%A8me-%F0%9F%87%AB%F0%9F%87%B7_Bleu_Blanc_Rouge-002395?style=flat-square
-https://img.shields.io/badge/Num%C3%A9rotation-A%3D1_%E2%80%A6_Z%3D26-1D4ED8?style=flat-square
+![Made with ❤️](https://img.shields.io/badge/Made_with-❤️-ED2939?style=flat-square)
+![France](https://img.shields.io/badge/Thème-🇫🇷_Bleu_Blanc_Rouge-002395?style=flat-square)
+![Numérotation](https://img.shields.io/badge/Numérotation-A%3D1_…_Z%3D26-1D4ED8?style=flat-square)
 
-Dashboard interactif en HTML / CSS / JavaScript (fichier unique) présentant les 118 éléments chimiques classés par date de découverte, avec une frise chronologique, une analyse spectrale simulée et un explorateur détaillé.
+---
 
-Particularité de cette version : chaque symbole chimique est remplacé par sa numérotation alphabétique (A=1, B=2, … Z=26), tout en conservant les noms complets des éléments, les valeurs numériques et les descriptions littérales.
+Dashboard interactif en **HTML / CSS / JavaScript** (fichier unique) présentant les **118 éléments chimiques** classés par date de découverte, avec une frise chronologique, une analyse spectrale simulée et un explorateur détaillé.
 
-Thème visuel : bleu, blanc, rouge 🇫🇷
+**Particularité de cette version** : chaque **symbole chimique** est remplacé par sa **numérotation alphabétique** (`A=1, B=2, … Z=26`), tout en conservant **les noms complets** des éléments, **les valeurs numériques** et **les descriptions littérales**.
 
-    🔗 Dépôt GitHub : github.com/gunout/tableau-periodique-complet-version-numeration
+Thème visuel : **bleu, blanc, rouge** 🇫🇷
 
-    🚀 Démo en ligne : gunout.github.io/tableau-periodique-complet-version-numeration
+> 🔗 **Dépôt GitHub** : [github.com/gunout/tableau-periodique-complet-version-numeration](https://github.com/gunout/tableau-periodique-complet-version-numeration)
+>
+> 🚀 **Démo en ligne** : [gunout.github.io/tableau-periodique-complet-version-numeration](https://gunout.github.io/tableau-periodique-complet-version-numeration)
 
-📖 Description
+---
 
-Ce projet est une variante numérotée du dashboard « Tableau Périodique Complet ». Il reprend l'intégralité des fonctionnalités de la version originale en y ajoutant une couche de lecture alphabétique : chaque symbole est converti en un code numérique basé sur la position des lettres dans l'alphabet.
+## 📖 Description
+
+Ce projet est une **variante numérotée** du dashboard « Tableau Périodique Complet ». Il reprend l'intégralité des fonctionnalités de la version originale en y ajoutant une **couche de lecture alphabétique** : chaque symbole est converti en un code numérique basé sur la position des lettres dans l'alphabet.
 
 Il permet d'explorer :
 
-    Le tableau périodique complet (18 colonnes, 7 périodes + lanthanides/actinides)
+- Le tableau périodique complet (18 colonnes, 7 périodes + lanthanides/actinides)
+- Les **codes numériques** des symboles (ex. `H → 8`, `He → 8·5`, `Fe → 6·5`, `Au → 1·21`)
+- Les **noms complets** des éléments (Hydrogène, Hélium, Fer, Or…)
+- Les dates de découverte et les découvreurs
+- Les grandes époques historiques (Antiquité → Période Moderne)
+- Les spectres RGB caractéristiques des éléments
+- Des spectres d'émission simulés (raies principales et secondaires)
 
-    Les codes numériques des symboles (ex. H → 8, He → 8·5, Fe → 6·5, Au → 1·21)
+---
 
-    Les noms complets des éléments (Hydrogène, Hélium, Fer, Or…)
+## 🔢 Correspondance alphabétique
 
-    Les dates de découverte et les découvreurs
+Chaque symbole est converti selon la **position alphabétique** de ses lettres (`a=1, b=2, …, z=26`), les valeurs étant jointes par un **point médian `·`**.
 
-    Les grandes époques historiques (Antiquité → Période Moderne)
+| Symbole | Code numérique | Nom complet | Z |
+|:-------:|:--------------:|:-----------:|:-:|
+| H  | `8`      | Hydrogène | 1  |
+| He | `8·5`    | Hélium    | 2  |
+| Li | `12·9`   | Lithium   | 3  |
+| C  | `3`      | Carbone   | 6  |
+| O  | `15`     | Oxygène   | 8  |
+| Fe | `6·5`    | Fer       | 26 |
+| Au | `1·21`   | Or        | 79 |
+| U  | `21`     | Uranium   | 92 |
+| Og | `15·7`   | Oganesson | 118 |
 
-    Les spectres RGB caractéristiques des éléments
+**Règle de conversion** : `symbole → charCodeAt(0) - 96`, joint par `·`.
 
-    Des spectres d'émission simulés (raies principales et secondaires)
-
-🔢 Correspondance alphabétique
-
-Chaque symbole est converti selon la position alphabétique de ses lettres (a=1, b=2, …, z=26), les valeurs étant jointes par un point médian ·.
-Symbole	Code numérique	Nom complet	Z
-H	8	Hydrogène	1
-He	8·5	Hélium	2
-Li	12·9	Lithium	3
-C	3	Carbone	6
-O	15	Oxygène	8
-Fe	6·5	Fer	26
-Au	1·21	Or	79
-U	21	Uranium	92
-Og	15·7	Oganesson	118
-
-Règle de conversion : symbole → charCodeAt(0) - 96, joint par ·.
-js
-
+```js
 function symToNum(sym){
   return sym.split('').map(c => c.toLowerCase().charCodeAt(0) - 96).join('·');
 }
+```
 
-✨ Fonctionnalités
+---
 
-https://img.shields.io/badge/%F0%9F%A7%AA_Tableau_P%C3%A9riodique-Interactif-002395?style=flat-square
-https://img.shields.io/badge/%F0%9F%93%85_Frise_Chronologique-SVG_natif-1D4ED8?style=flat-square
-https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F_Vue_par_%C3%89poque-6_p%C3%A9riodes-3B82F6?style=flat-square
-https://img.shields.io/badge/%F0%9F%8C%88_Analyse_Spectrale-3_onglets-ED2939?style=flat-square
-https://img.shields.io/badge/%F0%9F%94%8D_Explorateur-118_fiches-C8102E?style=flat-square
-https://img.shields.io/badge/%F0%9F%8E%9B%EF%B8%8F_Filtres-Dynamiques-22c55e?style=flat-square
-https://img.shields.io/badge/%F0%9F%93%B1_Responsive-Mobile_%26_Tablette-1D4ED8?style=flat-square
+## ✨ Fonctionnalités
 
-    🧪 Tableau périodique interactif — 118 éléments colorés par catégorie chimique. Chaque case affiche le code numérique, le nom complet et le numéro atomique.
+![Tableau Périodique](https://img.shields.io/badge/🧪_Tableau_Périodique-Interactif-002395?style=flat-square)
+![Frise Chronologique](https://img.shields.io/badge/📅_Frise_Chronologique-SVG_natif-1D4ED8?style=flat-square)
+![Vue par Époque](https://img.shields.io/badge/🏛️_Vue_par_Époque-6_périodes-3B82F6?style=flat-square)
+![Analyse Spectrale](https://img.shields.io/badge/🌈_Analyse_Spectrale-3_onglets-ED2939?style=flat-square)
+![Explorateur](https://img.shields.io/badge/🔍_Explorateur-118_fiches-C8102E?style=flat-square)
+![Filtres](https://img.shields.io/badge/🎛️_Filtres-Dynamiques-22c55e?style=flat-square)
+![Responsive](https://img.shields.io/badge/📱_Responsive-Mobile_%26_Tablette-1D4ED8?style=flat-square)
 
-    📅 Frise chronologique — Nuage de points « Année de découverte × Numéro atomique », coloré par époque.
+- 🧪 **Tableau périodique interactif** — 118 éléments colorés par catégorie chimique. Chaque case affiche le **code numérique**, le **nom complet** et le **numéro atomique**.
+- 📅 **Frise chronologique** — Nuage de points « Année de découverte × Numéro atomique », coloré par époque.
+- 🏛️ **Vue par époque** — Cartes détaillées regroupées par période historique (Antiquité, Moyen-Âge, Renaissance, Révolution Chimique, Ère Spectroscopique, Période Moderne).
+- 🌈 **Analyse spectrale** — Trois onglets fonctionnels dans toutes les vues : **par catégorie**, **par époque**, et **comparaison** de spectres simulés.
+- 🔍 **Explorateur d'éléments** — Fiche complète pour chaque élément : données historiques, propriétés atomiques, données spectrales et spectre simulé.
+- 🎛️ **Filtres dynamiques** — Filtrage par époque et par catégorie chimique, options d'affichage.
+- 📱 **Responsive** — S'adapte aux écrans mobiles et tablettes.
+- 🎨 **Thème tricolore** — Bandeau bleu-blanc-rouge et dégradés aux couleurs de la France.
+- 🔢 **Numérotation alphabétique** — Tous les symboles remplacés par leur code numérique (A=1 … Z=26), noms conservés.
 
-    🏛️ Vue par époque — Cartes détaillées regroupées par période historique (Antiquité, Moyen-Âge, Renaissance, Révolution Chimique, Ère Spectroscopique, Période Moderne).
+---
 
-    🌈 Analyse spectrale — Trois onglets fonctionnels dans toutes les vues : par catégorie, par époque, et comparaison de spectres simulés.
-
-    🔍 Explorateur d'éléments — Fiche complète pour chaque élément : données historiques, propriétés atomiques, données spectrales et spectre simulé.
-
-    🎛️ Filtres dynamiques — Filtrage par époque et par catégorie chimique, options d'affichage.
-
-    📱 Responsive — S'adapte aux écrans mobiles et tablettes.
-
-    🎨 Thème tricolore — Bandeau bleu-blanc-rouge et dégradés aux couleurs de la France.
-
-    🔢 Numérotation alphabétique — Tous les symboles remplacés par leur code numérique (A=1 … Z=26), noms conservés.
-
-🚀 Utilisation
+## 🚀 Utilisation
 
 Aucune installation, aucun build, aucune dépendance.
 
-https://img.shields.io/badge/Installation-Aucune-22c55e?style=for-the-badge
-https://img.shields.io/badge/Build-Aucun-22c55e?style=for-the-badge
-https://img.shields.io/badge/Fichier-Unique-1D4ED8?style=for-the-badge
-Option 1 — En ligne (recommandé)
+![Installation](https://img.shields.io/badge/Installation-Aucune-22c55e?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-Aucun-22c55e?style=for-the-badge)
+![Fichier Unique](https://img.shields.io/badge/Fichier-Unique-1D4ED8?style=for-the-badge)
+
+### Option 1 — En ligne (recommandé)
 
 Accédez directement à la démo déployée :
 
-👉 TABLEAU PERIODIQUE COMPLET — VERSION NUMÉROTATION
-Option 2 — En local
+👉 **[TABLEAU PERIODIQUE COMPLET — VERSION NUMÉROTATION](https://gunout.github.io/tableau-periodique-complet-version-numeration)**
 
-    Clonez le dépôt :
-    bash
+### Option 2 — En local
 
-    git clone https://github.com/gunout/tableau-periodique-complet-version-numeration.git
-    cd tableau-periodique-complet-version-numeration
+1. Clonez le dépôt :
 
-    Ouvrez le fichier index.html dans votre navigateur :
-    bash
+   ```bash
+   git clone https://github.com/gunout/tableau-periodique-complet-version-numeration.git
+   cd tableau-periodique-complet-version-numeration
+   ```
 
-    open index.html        # macOS
-    start index.html       # Windows
-    xdg-open index.html    # Linux
+2. Ouvrez le fichier `index.html` dans votre navigateur :
 
-🌐 Déploiement
+   ```bash
+   open index.html        # macOS
+   start index.html       # Windows
+   xdg-open index.html    # Linux
+   ```
+
+---
+
+## 🌐 Déploiement
 
 Ce projet est déployé en ligne et accessible publiquement.
 
-https://img.shields.io/badge/Statut-En_ligne-22c55e?style=for-the-badge
-https://img.shields.io/badge/URL-gunout.github.io-002395?style=for-the-badge
-Plateforme	Statut	URL
-GitHub Pages	✅ En ligne	gunout.github.io/tableau-periodique-complet-version-numeration
-Netlify / Vercel	⚙️ Optionnel	Glisser-déposer le dossier
+[![Statut](https://img.shields.io/badge/Statut-En_ligne-22c55e?style=for-the-badge)](https://gunout.github.io/tableau-periodique-complet-version-numeration)
+[![URL](https://img.shields.io/badge/URL-gunout.github.io-002395?style=for-the-badge)](https://gunout.github.io/tableau-periodique-complet-version-numeration)
 
-    💡 Pour redéployer vous-même : le projet étant un simple fichier statique, il suffit de glisser-déposer le dossier sur Netlify Drop ou de connecter le dépôt GitHub à Netlify/Vercel.
+| Plateforme | Statut | URL |
+|------------|--------|-----|
+| GitHub Pages | ✅ En ligne | [gunout.github.io/tableau-periodique-complet-version-numeration](https://gunout.github.io/tableau-periodique-complet-version-numeration) |
+| Netlify / Vercel | ⚙️ Optionnel | Glisser-déposer le dossier |
 
-🗂️ Structure du projet
-text
+> 💡 Pour redéployer vous-même : le projet étant un simple fichier statique, il suffit de glisser-déposer le dossier sur [Netlify Drop](https://app.netlify.com/drop) ou de connecter le dépôt GitHub à Netlify/Vercel.
 
+---
+
+## 🗂️ Structure du projet
+
+```
 .
 ├── index.html      # Fichier unique contenant HTML + CSS + JS
 └── README.md       # Ce fichier
+```
 
-Le fichier index.html contient :
+Le fichier `index.html` contient :
 
-https://img.shields.io/badge/HTML-Structure-E34F26?style=flat-square&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS-Th%C3%A8me_%F0%9F%87%AB%F0%9F%87%B7-1572B6?style=flat-square&logo=css3&logoColor=white
-https://img.shields.io/badge/JS-Donn%C3%A9es_%2B_Rendu-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/SVG-Graphiques-FFB13B?style=flat-square&logo=svg&logoColor=black
+![HTML](https://img.shields.io/badge/HTML-Structure-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Thème_🇫🇷-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-Données_%2B_Rendu-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SVG](https://img.shields.io/badge/SVG-Graphiques-FFB13B?style=flat-square&logo=svg&logoColor=black)
 
-    HTML : structure de la page (sidebar + contenu principal)
+- **HTML** : structure de la page (sidebar + contenu principal)
+- **CSS** : styles, thème bleu-blanc-rouge, responsive
+- **JavaScript** : données des 118 éléments, conversion numérique, rendu dynamique, graphiques SVG
 
-    CSS : styles, thème bleu-blanc-rouge, responsive
+---
 
-    JavaScript : données des 118 éléments, conversion numérique, rendu dynamique, graphiques SVG
-
-🎨 Personnalisation
+## 🎨 Personnalisation
 
 Toutes les données sont centralisées en haut du script JavaScript. Vous pouvez les modifier sans toucher au reste du code.
-1. Modifier les éléments
 
-Tableau ELEMENTS :
-js
+### 1. Modifier les éléments
 
+Tableau `ELEMENTS` :
+
+```js
 {s:'H', n:'Hydrogène', Z:1, m:1.008, cfg:'1s¹', p:1, g:1,
  cat:'Non-metal', date:1766, dec:'Henry Cavendish', ep:'Révolution Chimique'}
+```
 
-Champ	Description
-s	Symbole chimique (converti automatiquement)
-n	Nom de l'élément (affiché tel quel)
-Z	Numéro atomique
-m	Masse atomique (u)
-cfg	Configuration électronique
-p	Période
-g	Groupe
-cat	Catégorie chimique
-date	Année de découverte (négatif = antiquité)
-dec	Découvreur
-ep	Époque historique
-2. Modifier la conversion numérique
+| Champ  | Description                                 |
+|--------|---------------------------------------------|
+| `s`    | Symbole chimique (converti automatiquement) |
+| `n`    | Nom de l'élément (affiché tel quel)         |
+| `Z`    | Numéro atomique                             |
+| `m`    | Masse atomique (u)                          |
+| `cfg`  | Configuration électronique                  |
+| `p`    | Période                                     |
+| `g`    | Groupe                                      |
+| `cat`  | Catégorie chimique                          |
+| `date` | Année de découverte (négatif = antiquité)   |
+| `dec`  | Découvreur                                  |
+| `ep`   | Époque historique                           |
 
-Fonction symToNum() — changez le séparateur ou la formule :
-js
+### 2. Modifier la conversion numérique
 
+Fonction `symToNum()` — changez le séparateur ou la formule :
+
+```js
 // Séparateur par défaut : ·
 function symToNum(sym){
   return sym.split('').map(c => c.toLowerCase().charCodeAt(0) - 96).join('·');
@@ -194,79 +208,93 @@ function symToNum(sym){
 
 // Variante sans séparateur : H → 8, He → 85, Fe → 65
 // .join('')
+```
 
-3. Modifier les spectres
+### 3. Modifier les spectres
 
-Objet SPECTRAL :
-js
+Objet `SPECTRAL` :
 
+```js
 'H': {rgb:[255,90,90], wl:656.3, sec:[486.1,434.0], lines:['656.3 nm (Hα)','486.1 nm (Hβ)']}
+```
 
-Champ	Description
-rgb	Couleur RGB caractéristique
-wl	Longueur d'onde principale (nm)
-sec	Raies secondaires (nm)
-lines	Libellés des raies principales
-4. Modifier les époques
+| Champ   | Description                     |
+|---------|---------------------------------|
+| `rgb`   | Couleur RGB caractéristique     |
+| `wl`    | Longueur d'onde principale (nm) |
+| `sec`   | Raies secondaires (nm)          |
+| `lines` | Libellés des raies principales  |
 
-Tableau EPOCHS :
-js
+### 4. Modifier les époques
 
+Tableau `EPOCHS` :
+
+```js
 {nom:'Antiquité', periode:'Avant 500', bg:'#EFF6FF', border:'#1D4ED8',
  color:'#1E3A8A', point:'#93C5FD', desc:"Éléments connus depuis l'antiquité"}
+```
 
-5. Modifier les couleurs des catégories
+### 5. Modifier les couleurs des catégories
 
-Objet CAT_COLORS :
-js
+Objet `CAT_COLORS` :
 
+```js
 'Métal alcalin': '#C8102E',
 'Métal de transition': '#1D4ED8',
 // etc.
+```
 
-6. Modifier le thème global
+### 6. Modifier le thème global
 
-Les variables CSS sont définies dans :root :
-css
+Les variables CSS sont définies dans `:root` :
 
+```css
 :root{
   --bleu:#002395;
   --rouge:#ED2939;
   --blanc:#ffffff;
   /* ... */
 }
+```
 
-📊 Données
+---
 
-https://img.shields.io/badge/Source-Publique-1D4ED8?style=flat-square
-https://img.shields.io/badge/Usage-P%C3%A9dagogique-ED2939?style=flat-square
-https://img.shields.io/badge/Pr%C3%A9cision-Approch%C3%A9e-f59e0b?style=flat-square
+## 📊 Données
 
-Les données historiques et spectrales sont compilées à titre pédagogique et peuvent contenir des approximations. Elles proviennent de sources publiques (Wikipédia, bases de données de spectroscopie, ouvrages de vulgarisation).
+![Source](https://img.shields.io/badge/Source-Publique-1D4ED8?style=flat-square)
+![Usage](https://img.shields.io/badge/Usage-Pédagogique-ED2939?style=flat-square)
+![Précision](https://img.shields.io/badge/Précision-Approchée-f59e0b?style=flat-square)
 
-    Dates de découverte : les valeurs négatives indiquent une connaissance antique (ex. -25000 pour le carbone).
+Les données historiques et spectrales sont **compilées à titre pédagogique** et peuvent contenir des approximations. Elles proviennent de sources publiques (Wikipédia, bases de données de spectroscopie, ouvrages de vulgarisation).
 
-    Spectres : les longueurs d'onde sont des valeurs caractéristiques simplifiées. Les spectres affichés sont simulés (gaussiennes centrées sur les raies) et non des spectres expérimentaux bruts.
+- **Dates de découverte** : les valeurs négatives indiquent une connaissance antique (ex. `-25000` pour le carbone).
+- **Spectres** : les longueurs d'onde sont des valeurs caractéristiques simplifiées. Les spectres affichés sont **simulés** (gaussiennes centrées sur les raies) et non des spectres expérimentaux bruts.
+- **Numérotation** : la conversion alphabétique est **purement visuelle** et n'a aucune signification chimique ; elle vise à offrir une nouvelle grille de lecture.
 
-    Numérotation : la conversion alphabétique est purement visuelle et n'a aucune signification chimique ; elle vise à offrir une nouvelle grille de lecture.
+---
 
-🌐 Compatibilité
-Navigateur	Version minimale	Statut
-https://img.shields.io/badge/Chrome-80+-4285F4?style=flat-square&logo=googlechrome&logoColor=white	80+	https://img.shields.io/badge/-OK-22c55e?style=flat-square
-https://img.shields.io/badge/Firefox-78+-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white	78+	https://img.shields.io/badge/-OK-22c55e?style=flat-square
-https://img.shields.io/badge/Edge-80+-0078D7?style=flat-square&logo=microsoftedge&logoColor=white	80+	https://img.shields.io/badge/-OK-22c55e?style=flat-square
-https://img.shields.io/badge/Safari-14+-000000?style=flat-square&logo=safari&logoColor=white	14+	https://img.shields.io/badge/-OK-22c55e?style=flat-square
+## 🌐 Compatibilité
 
-Aucune librairie externe n'est requise (pas de React, Vue, D3, Plotly…). Tout est en JavaScript natif et SVG.
-📄 Licence
+| Navigateur | Version minimale | Statut |
+|------------|------------------|--------|
+| ![Chrome](https://img.shields.io/badge/Chrome-80+-4285F4?style=flat-square&logo=googlechrome&logoColor=white) | 80+ | ![OK](https://img.shields.io/badge/-OK-22c55e?style=flat-square) |
+| ![Firefox](https://img.shields.io/badge/Firefox-78+-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white) | 78+ | ![OK](https://img.shields.io/badge/-OK-22c55e?style=flat-square) |
+| ![Edge](https://img.shields.io/badge/Edge-80+-0078D7?style=flat-square&logo=microsoftedge&logoColor=white) | 80+ | ![OK](https://img.shields.io/badge/-OK-22c55e?style=flat-square) |
+| ![Safari](https://img.shields.io/badge/Safari-14+-000000?style=flat-square&logo=safari&logoColor=white) | 14+ | ![OK](https://img.shields.io/badge/-OK-22c55e?style=flat-square) |
 
-https://img.shields.io/badge/License-MIT-002395?style=for-the-badge
+Aucune librairie externe n'est requise (pas de React, Vue, D3, Plotly…). Tout est en **JavaScript natif** et **SVG**.
 
-Ce projet est distribué sous licence MIT.
+---
+
+## 📄 Licence
+
+![License MIT](https://img.shields.io/badge/License-MIT-002395?style=for-the-badge)
+
+Ce projet est distribué sous licence **MIT**.
 
 Vous êtes libre de l'utiliser, le modifier et le redistribuer, y compris à des fins commerciales, à condition de conserver la mention de copyright.
-text
 
+```text
 MIT License
 
 Copyright (c) 2026 gunout
@@ -288,34 +316,44 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
-🙏 Crédits
+---
 
-https://img.shields.io/badge/Inspiration-Streamlit_Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white
-https://img.shields.io/badge/Donn%C3%A9es-Wikip%C3%A9dia_%26_Bases_publiques-1D4ED8?style=flat-square
-https://img.shields.io/badge/Th%C3%A8me-%F0%9F%87%AB%F0%9F%87%B7_Bleu_Blanc_Rouge-002395?style=flat-square
+## 🙏 Crédits
 
-    Données historiques et spectrales compilées à partir de sources publiques.
+![Inspiration](https://img.shields.io/badge/Inspiration-Streamlit_Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Données](https://img.shields.io/badge/Données-Wikipédia_%26_Bases_publiques-1D4ED8?style=flat-square)
+![Thème](https://img.shields.io/badge/Thème-🇫🇷_Bleu_Blanc_Rouge-002395?style=flat-square)
 
-    Inspiration : dashboard Streamlit original « Tableau Périodique Complet ».
+- Données historiques et spectrales compilées à partir de sources publiques.
+- Inspiration : dashboard Streamlit original « Tableau Périodique Complet ».
+- Variante : **version numérotation alphabétique** (A=1 … Z=26).
+- Thème visuel : bleu, blanc, rouge — en hommage à la France. 🇫🇷
 
-    Variante : version numérotation alphabétique (A=1 … Z=26).
+---
 
-    Thème visuel : bleu, blanc, rouge — en hommage à la France. 🇫🇷
+## 🌟 Aperçu
 
-🌟 Aperçu
 <img width="1800" height="4855" alt="Aperçu du Tableau Périodique Complet — Version Numérotation" src="https://github.com/user-attachments/assets/b6bccb93-81c7-44e6-a88a-e85eff644bef" />
 
-Bonne exploration ! 🧪🌈🔢
+---
 
-https://img.shields.io/badge/Voir_sur-GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Voir_la-D%C3%A9mo-002395?style=for-the-badge&logo=netlify&logoColor=white
+**Bonne exploration !** 🧪🌈🔢
+
+[![Voir sur GitHub](https://img.shields.io/badge/Voir_sur-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunout/tableau-periodique-complet-version-numeration)
+[![Voir la Démo](https://img.shields.io/badge/Voir_la-Démo-002395?style=for-the-badge&logo=netlify&logoColor=white)](https://gunout.github.io/tableau-periodique-complet-version-numeration)
+
+---
+
 <div align="center">
-🇫🇷 Gunout · 2026
 
-https://img.shields.io/badge/Made_in-France-002395?style=flat-square&labelColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0iIzAwMjM5NSIvPjxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNDAwIiB5PSIxMDAiIGZpbGw9IiNmZmYiLz48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgeT0iNDAwIiBmaWxsPSIjZWQyOTM5Ii8+PC9zdmc+
-https://img.shields.io/badge/GitHub-gunout-181717?style=flat-square&logo=github&logoColor=white
-https://img.shields.io/badge/2026-ED2939?style=flat-square&labelColor=FFFFFF
+### 🇫🇷 Gunout · 2026
+
+![Made in France](https://img.shields.io/badge/Made_in-France-002395?style=flat-square&labelColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjYwMCIgZmlsbD0iIzAwMjM5NSIvPjxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iNDAwIiB5PSIxMDAiIGZpbGw9IiNmZmYiLz48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgeT0iNDAwIiBmaWxsPSIjZWQyOTM5Ii8+PC9zdmc+)
+![GitHub](https://img.shields.io/badge/GitHub-gunout-181717?style=flat-square&logo=github&logoColor=white)
+![Year](https://img.shields.io/badge/2026-ED2939?style=flat-square&labelColor=FFFFFF)
 
 <sub>© 2026 <strong>gunout</strong> — Tous droits réservés.</sub>
+
 </div>
