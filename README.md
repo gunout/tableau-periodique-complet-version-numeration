@@ -1,78 +1,77 @@
-# 🌌 Tableau Périodique Complet — Version Numérotation
+🌌 Tableau Périodique Complet — Version Numérotation
 
-[![GitHub](https://img.shields.io/badge/GitHub-gunout%2Ftableau--periodique--version--numeration-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gunout/tableau-periodique-complet-version-numeration)
-[![Déployé](https://img.shields.io/badge/Déployé-En_ligne-002395?style=for-the-badge&logo=netlify&logoColor=white)](https://gunout.github.io/tableau-periodique-complet-version-numeration)
+https://img.shields.io/badge/GitHub-gunout%2Ftableau--periodique--version--numeration-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/D%C3%A9ploy%C3%A9-En_ligne-002395?style=for-the-badge&logo=netlify&logoColor=white
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![License MIT](https://img.shields.io/badge/License-MIT-002395?style=for-the-badge)
-![No Dependencies](https://img.shields.io/badge/Dependencies-0-ED2939?style=for-the-badge)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-1D4ED8?style=for-the-badge)
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/License-MIT-002395?style=for-the-badge
+https://img.shields.io/badge/Dependencies-0-ED2939?style=for-the-badge
+https://img.shields.io/badge/Responsive-Yes-1D4ED8?style=for-the-badge
 
-![Éléments](https://img.shields.io/badge/Éléments-118-002395?style=flat-square)
-![Époques](https://img.shields.io/badge/Époques-6-1D4ED8?style=flat-square)
-![Catégories](https://img.shields.io/badge/Catégories-10-3B82F6?style=flat-square)
-![Spectres](https://img.shields.io/badge/Spectres_simulés-Oui-ED2939?style=flat-square)
-![Langue](https://img.shields.io/badge/Langue-Français-C8102E?style=flat-square)
-![Statut](https://img.shields.io/badge/Statut-Stable-22c55e?style=flat-square)
+https://img.shields.io/badge/%C3%89l%C3%A9ments-118-002395?style=flat-square
+https://img.shields.io/badge/%C3%89poques-6-1D4ED8?style=flat-square
+https://img.shields.io/badge/Cat%C3%A9gories-10-3B82F6?style=flat-square
+https://img.shields.io/badge/Spectres_simul%C3%A9s-Oui-ED2939?style=flat-square
+https://img.shields.io/badge/Langue-Fran%C3%A7ais-C8102E?style=flat-square
+https://img.shields.io/badge/Statut-Stable-22c55e?style=flat-square
 
-![Made with ❤️](https://img.shields.io/badge/Made_with-❤️-ED2939?style=flat-square)
-![France](https://img.shields.io/badge/Thème-🇫🇷_Bleu_Blanc_Rouge-002395?style=flat-square)
-![Numérotation](https://img.shields.io/badge/Numérotation-A%3D1_…_Z%3D26-1D4ED8?style=flat-square)
+https://img.shields.io/badge/Made_with-%E2%9D%A4%EF%B8%8F-ED2939?style=flat-square
+https://img.shields.io/badge/Th%C3%A8me-%F0%9F%87%AB%F0%9F%87%B7_Bleu_Blanc_Rouge-002395?style=flat-square
+https://img.shields.io/badge/Num%C3%A9rotation-A%3D1_%E2%80%A6_Z%3D26-1D4ED8?style=flat-square
 
----
+Dashboard interactif en HTML / CSS / JavaScript (fichier unique) présentant les 118 éléments chimiques classés par date de découverte, avec une frise chronologique, une analyse spectrale simulée et un explorateur détaillé.
 
-Dashboard interactif en **HTML / CSS / JavaScript** (fichier unique) présentant les **118 éléments chimiques** classés par date de découverte, avec une frise chronologique, une analyse spectrale simulée et un explorateur détaillé.
+Particularité de cette version : chaque symbole chimique est remplacé par sa numérotation alphabétique (A=1, B=2, … Z=26), tout en conservant les noms complets des éléments, les valeurs numériques et les descriptions littérales.
 
-**Particularité de cette version** : chaque **symbole chimique** est remplacé par sa **numérotation alphabétique** (`A=1, B=2, … Z=26`), tout en conservant **les noms complets** des éléments, **les valeurs numériques** et **les descriptions littérales**.
+Thème visuel : bleu, blanc, rouge 🇫🇷
 
-Thème visuel : **bleu, blanc, rouge** 🇫🇷
+    🔗 Dépôt GitHub : github.com/gunout/tableau-periodique-complet-version-numeration
 
-> 🔗 **Dépôt GitHub** : [github.com/gunout/tableau-periodique-complet-version-numeration](https://github.com/gunout/tableau-periodique-complet-version-numeration)
-> 🚀 **Démo en ligne** : [gunout.github.io/tableau-periodique-complet-version-numeration](https://gunout.github.io/tableau-periodique-complet-version-numeration)
+    🚀 Démo en ligne : gunout.github.io/tableau-periodique-complet-version-numeration
 
----
+📖 Description
 
-## 📖 Description
-
-Ce projet est une **variante numérotée** du dashboard « Tableau Périodique Complet ». Il reprend l'intégralité des fonctionnalités de la version originale en y ajoutant une **couche de lecture alphabétique** : chaque symbole est converti en un code numérique basé sur la position des lettres dans l'alphabet.
+Ce projet est une variante numérotée du dashboard « Tableau Périodique Complet ». Il reprend l'intégralité des fonctionnalités de la version originale en y ajoutant une couche de lecture alphabétique : chaque symbole est converti en un code numérique basé sur la position des lettres dans l'alphabet.
 
 Il permet d'explorer :
 
-- Le tableau périodique complet (18 colonnes, 7 périodes + lanthanides/actinides)
-- Les **codes numériques** des symboles (ex. `H → 8`, `He → 8·5`, `Fe → 6·5`, `Au → 1·21`)
-- Les **noms complets** des éléments (Hydrogène, Hélium, Fer, Or…)
-- Les dates de découverte et les découvreurs
-- Les grandes époques historiques (Antiquité → Période Moderne)
-- Les spectres RGB caractéristiques des éléments
-- Des spectres d'émission simulés (raies principales et secondaires)
+    Le tableau périodique complet (18 colonnes, 7 périodes + lanthanides/actinides)
 
----
+    Les codes numériques des symboles (ex. H → 8, He → 8·5, Fe → 6·5, Au → 1·21)
 
-## 🔢 Correspondance alphabétique
+    Les noms complets des éléments (Hydrogène, Hélium, Fer, Or…)
 
-Chaque symbole est converti selon la **position alphabétique** de ses lettres (`a=1, b=2, …, z=26`), les valeurs étant jointes par un **point médian `·`**.
+    Les dates de découverte et les découvreurs
 
-| Symbole | Code numérique | Nom complet | Z |
-|:-------:|:--------------:|:-----------:|:-:|
-| H  | `8`      | Hydrogène | 1  |
-| He | `8·5`    | Hélium    | 2  |
-| Li | `12·9`   | Lithium   | 3  |
-| C  | `3`      | Carbone   | 6  |
-| O  | `15`     | Oxygène   | 8  |
-| Fe | `6·5`    | Fer       | 26 |
-| Au | `1·21`   | Or        | 79 |
-| U  | `21`     | Uranium   | 92 |
-| Og | `15·7`   | Oganesson | 118 |
+    Les grandes époques historiques (Antiquité → Période Moderne)
 
-**Règle de conversion** : `symbole → charCodeAt(0) - 96`, joint par `·`.
+    Les spectres RGB caractéristiques des éléments
 
-```js
+    Des spectres d'émission simulés (raies principales et secondaires)
+
+🔢 Correspondance alphabétique
+
+Chaque symbole est converti selon la position alphabétique de ses lettres (a=1, b=2, …, z=26), les valeurs étant jointes par un point médian ·.
+Symbole	Code numérique	Nom complet	Z
+H	8	Hydrogène	1
+He	8·5	Hélium	2
+Li	12·9	Lithium	3
+C	3	Carbone	6
+O	15	Oxygène	8
+Fe	6·5	Fer	26
+Au	1·21	Or	79
+U	21	Uranium	92
+Og	15·7	Oganesson	118
+
+Règle de conversion : symbole → charCodeAt(0) - 96, joint par ·.
+js
+
 function symToNum(sym){
   return sym.split('').map(c => c.toLowerCase().charCodeAt(0) - 96).join('·');
 }
-```
+
 ✨ Fonctionnalités
 
 https://img.shields.io/badge/%F0%9F%A7%AA_Tableau_P%C3%A9riodique-Interactif-002395?style=flat-square
@@ -133,7 +132,7 @@ Option 2 — En local
 Ce projet est déployé en ligne et accessible publiquement.
 
 https://img.shields.io/badge/Statut-En_ligne-22c55e?style=for-the-badge
-https://img.shields.io/badge/URL-gunout.github.io%2Ftableau--periodique--version--numeration-002395?style=for-the-badge
+https://img.shields.io/badge/URL-gunout.github.io-002395?style=for-the-badge
 Plateforme	Statut	URL
 GitHub Pages	✅ En ligne	gunout.github.io/tableau-periodique-complet-version-numeration
 Netlify / Vercel	⚙️ Optionnel	Glisser-déposer le dossier
