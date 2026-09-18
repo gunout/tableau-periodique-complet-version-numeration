@@ -118,12 +118,12 @@ Typographie	Segoe UI / system-ui	Rendu natif, aucune dépendance externe
 
 Aucune librairie tierce, aucun framework, aucun CDN.
 📂 Structure du projet
-text
 
-tableau-periodique-complet-version-numeration/
-├── index.html      # Application complète (HTML + CSS + JS intégrés)
-├── README.md       # Documentation du projet
-└── LICENSE         # Licence MIT
+
+    tableau-periodique-complet-version-numeration/
+    ├── index.html      # Application complète (HTML + CSS + JS intégrés)
+    ├── README.md       # Documentation du projet
+    └── LICENSE         # Licence MIT
 
     ⚠️ Le projet est volontairement mono-fichier pour faciliter la diffusion, l'archivage et l'utilisation hors-ligne.
 
